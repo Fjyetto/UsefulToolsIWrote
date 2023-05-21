@@ -1,0 +1,1 @@
+these scripts can be ran by dragging a file over them in explorer
